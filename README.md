@@ -225,4 +225,4 @@ Hotspot Shield is available as a full free version with all features and updates
 Experience the benefits of secure and private browsing today with Hotspot Shield! Click the download button above to get started.
 
 ---
-**Last updated:** 2026-11-01 12:57:18 UTC
+**Last updated:** 2026-11-01 18:22:11 UTC
